@@ -1,6 +1,8 @@
 Well this a repo for all my Kicad work to this point, 
 that i want to publish and use in my electrical engineering studies
 
+I'm planning to keep all my kicad footprints/symbols and porjects here since it is easy to 
+show and import to kicad or a differnet porgram for pcb work 
 
 
 
@@ -94,7 +96,3 @@ that i want to publish and use in my electrical engineering studies
 
 
 
-
-
-
-Sb was here...
